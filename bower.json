@@ -1,0 +1,32 @@
+{
+  "name": "angular-formly-dynamic-interpolate-symbols",
+  "version": "1.0.0",
+  "homepage": "https://github.com/formly-js/angular-formly-dynamic-interpolate-symbols",
+  "authors": [
+    "davidlukerice"
+  ],
+  "description": "Plugin for angular-formly which will convert templates that use {{ and }} into the start and end from $interpolate.",
+  "main": "src/angular-formly-dynamic-interpolate-symbols.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "forms",
+    "angular-formly",
+    "formly",
+    "angularjs",
+    "interpolate",
+    "symbols"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "CONTRIBUTING.md",
+    "karma.conf.js",
+    "webpack.config.js",
+    "other"
+  ]
+}
